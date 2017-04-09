@@ -1,0 +1,2068 @@
+[ 2016-01-25T19:17:00+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002060s ]
+
+[ 2016-01-25T19:29:07+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0503s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 8   [ RunTime:0.0498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000339s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001659s ]
+
+[ 2016-01-25T19:29:12+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0502s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 8   [ RunTime:0.0492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2016-01-25T19:31:32+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0495s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0491s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001665s ]
+
+[ 2016-01-25T19:35:28+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0492s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0485s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001549s ]
+
+[ 2016-01-25T19:35:37+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0483s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0488s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018938s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001513s ]
+
+[ 2016-01-25T19:35:39+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0481s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0479s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2016-01-25T19:35:50+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0478s ]
+SQL: SELECT `id`,`title` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Undefined index: time D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001460s ]
+
+[ 2016-01-25T19:36:39+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0524s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001497s ]
+
+[ 2016-01-25T19:36:53+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0481s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0475s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001466s ]
+
+[ 2016-01-25T19:39:05+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0501s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0488s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-01-25T19:40:17+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0498s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0486s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2016-01-25T19:40:19+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0487s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2016-01-25T19:40:35+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001549s ]
+
+[ 2016-01-25T19:41:52+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0493s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000239s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001657s ]
+
+[ 2016-01-25T19:43:33+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0508s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001570s ]
+
+[ 2016-01-25T19:43:49+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0482s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0480s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001503s ]
+
+[ 2016-01-25T19:46:14+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0487s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0484s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2016-01-25T19:47:55+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0509s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018684s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001676s ]
+
+[ 2016-01-25T19:47:56+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/Arrayid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2016-01-25T19:48:55+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001601s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0502s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001584s ]
+
+[ 2016-01-25T19:54:12+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0503s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+NOTIC: [8] Array to string conversion D:\YDesigner\YD\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
+[ 2016-01-25T19:54:14+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/Arrayid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='Arrayid' )  [ RunTime:0.0491s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 49 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 49 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 51 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001566s ]
+
+[ 2016-01-25T19:54:46+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0502s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001476s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0489s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.0494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001473s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141629545922.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001841s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631256122.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630291339.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001852s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631385187.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001875s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630566223.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632042723.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003131s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632499773.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633207590.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633323291.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633481950.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634211906.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634378602.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001691s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634515018.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+
+[ 2016-01-25T19:54:48+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632348743.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0489s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.0496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631385187.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630291339.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001541s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630566223.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632042723.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+
+[ 2016-01-25T19:54:59+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141629545922.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001862s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631256122.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633207590.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632348743.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632499773.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633481950.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633323291.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001700s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634211906.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634378602.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+
+[ 2016-01-25T19:55:00+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634515018.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001622s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0484s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='16' )  [ RunTime:0.0490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001606s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141552374061.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141553048675.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141553439639.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141553584659.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001638s ]
+
+[ 2016-01-25T19:57:56+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141554128244.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0498s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='18' )  [ RunTime:0.0501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001598s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141556224433.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141558102781.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141557165105.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141559383413.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141600512570.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006201s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141600024432.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005200s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141602264891.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141603179329.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141604053415.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141606554856.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141606091857.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002341s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141605358036.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141608278130.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-01-25T19:59:28+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141607329518.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-01-25T20:03:49+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001615s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0494s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000248s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-01-25T20:04:09+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0483s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0483s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001512s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0480s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.0718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141629545922.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630291339.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002275s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630566223.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001939s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631385187.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003536s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632042723.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002694s ]
+
+[ 2016-01-25T20:04:22+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631256122.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002768s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632348743.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632499773.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633207590.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633323291.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002315s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633481950.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634211906.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001525s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634378602.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2016-01-25T20:04:23+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634515018.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2016-01-25T20:07:02+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0507s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='0' )  [ RunTime:0.0493s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 49 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 49 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 51 行.
+NOTIC: [8] Undefined variable: article D:\YDesigner\YD\Application\Runtime\Cache\Home\d8e3bdedf51dc6c1db7931534b1e0f08.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001640s ]
+
+[ 2016-01-25T20:07:25+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000236s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001532s ]
+
+[ 2016-01-25T20:07:29+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-01-25T20:09:53+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000249s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000381s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001614s ]
+
+[ 2016-01-25T20:12:54+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0496s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0493s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2016-01-25T20:14:38+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000430s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000613s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0515s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.2929s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000391s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001933s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141629545922.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630291339.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001984s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632348743.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632499773.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633207590.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633323291.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004575s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634211906.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634378602.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141634515018.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141632042723.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631385187.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141630566223.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141633481950.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001562s ]
+
+[ 2016-01-25T20:15:24+08:00 ] ::1 /YD/index.php/Home/Public/Upload/day_160114/201601141631256122.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+
+[ 2016-01-25T20:41:25+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002032s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.0494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001805s ]
+
+[ 2016-01-25T20:41:36+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0488s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.0490s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001547s ]
+
+[ 2016-01-25T20:43:11+08:00 ] ::1 /YD/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0530s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2016-01-25T20:43:13+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0520s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001498s ]
+
+[ 2016-01-25T20:43:18+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='16' )  [ RunTime:0.0498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001885s ]
+
+[ 2016-01-25T20:43:46+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001582s ]
+
+[ 2016-01-25T20:52:30+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0514s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001584s ]
+
+[ 2016-01-25T20:55:26+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0482s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0985s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001613s ]
+
+[ 2016-01-25T20:58:02+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0504s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000326s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2016-01-25T20:59:47+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001436s ]
+
+[ 2016-01-25T21:00:20+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0473s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0961s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-01-25T21:01:03+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0498s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1052s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-01-25T21:03:42+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0505s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001624s ]
+
+[ 2016-01-25T21:09:23+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0526s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0517s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001607s ]
+
+[ 2016-01-25T22:00:21+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0495s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041839s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001636s ]
+
+[ 2016-01-25T22:04:33+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001582s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0504s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:1.1913s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001591s ]
+
+[ 2016-01-25T22:05:45+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0501s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0482s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.4970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Use of undefined constant page_count - assumed 'page_count' D:\YDesigner\YD\Application\Runtime\Cache\Home\8fdf22c790126e514cc6cb8c3f60ecb6.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001467s ]
+
+[ 2016-01-25T22:06:12+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0494s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Use of undefined constant page_count - assumed 'page_count' D:\YDesigner\YD\Application\Runtime\Cache\Home\8fdf22c790126e514cc6cb8c3f60ecb6.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2016-01-25T22:06:23+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0484s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0476s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0982s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2016-01-25T22:06:55+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0486s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0487s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0986s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-01-25T22:07:42+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0498s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0493s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2016-01-25T22:07:45+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001851s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0504s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001479s ]
+
+[ 2016-01-25T22:08:10+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0513s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0503s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001494s ]
+
+[ 2016-01-25T22:08:12+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0501s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0494s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001467s ]
+
+[ 2016-01-25T22:08:47+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.2923s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0475s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.5958s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000346s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001505s ]
+
+[ 2016-01-25T22:09:22+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001555s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0497s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0481s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0978s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020830s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001566s ]
+
+[ 2016-01-25T22:09:25+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0484s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.0994s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001500s ]
+
+[ 2016-01-25T22:09:32+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/-1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0504s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0500s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000350s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001462s ]
+
+[ 2016-01-25T22:09:46+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001632s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0492s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.9841s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000248s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2016-01-25T22:11:18+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001517s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0487s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0476s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.6806s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001474s ]
+
+[ 2016-01-25T22:11:23+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0504s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='21' )  [ RunTime:0.3469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2016-01-25T22:11:28+08:00 ] ::1 /YD/index.php/Home/Index/articleDetail/article_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0528s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  WHERE ( yd_article.id='20' )  [ RunTime:0.2888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2016-01-25T22:12:12+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0499s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0497s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.6861s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000254s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001444s ]
+
+[ 2016-01-25T22:12:14+08:00 ] ::1 /YD/index.php/Home/Index/articleList/pageNum/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.2976s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0482s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.3296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2016-01-25T22:12:22+08:00 ] ::1 /YD/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0489s ]
+SQL: SELECT `id`,`title`,`time` FROM `yd_article` ORDER BY id desc LIMIT 10   [ RunTime:0.0476s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001508s ]
+
+[ 2016-01-25T22:35:31+08:00 ] ::1 /YD/index.php/Home/Index/articleList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `yd_article` [ RunTime:0.0500s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `yd_article` LIMIT 1   [ RunTime:0.0498s ]
+SQL: SELECT yd_article.id,yd_article.title,yd_article.content,yd_article.time,yd_user.name username FROM `yd_article` INNER JOIN yd_user on yd_user.id=yd_article.user_id  ORDER BY yd_article.id desc LIMIT 0,5   [ RunTime:0.1024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000254s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044684s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+

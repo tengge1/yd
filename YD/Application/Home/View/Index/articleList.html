@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>最新资讯</title>
+    <link href="__CSS__/bootstrap.min.css" rel="stylesheet">
+    <link href="__CSS__/non-responsive.css" rel="stylesheet">
+    <link href="__CSS__/my.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="__JS__/html5shiv.min.js"></script>
+      <script src="__JS__/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    {// 导航条}
+    <nav class="navbar navbar-default navbar-fixed-top index-nav">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{:U('index')}">
+                    <img alt="YDesigner" src="__IMG__/index-logo.png" />
+                </a>
+            </div>
+            <div>
+                <ul class="nav navbar-nav">
+                    <li><a href="{:U('index')}">首页</a></li>
+                    <li class="active"><a href="{:U('articleList')}">最新资讯</a></li>
+                    <li><a href="{:U('articleDetail',array('article_id'=>22))}">推荐产品</a></li>
+                    <li><a href="http://112.74.212.185/YDesigner" target="_blank">系统演示</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="index-mask"></div>
+
+    {// 图片}
+    <div class="container-fluid article-list-banner">
+        <img class="img-responsive" src="__IMG__/article-list-banner.png" alt="Choose as" />
+    </div>
+
+    {// 主体内容}
+    <div class="container article-list-block">
+        <h2><span>文章列表</span></h2>
+        <br />
+        <div>
+            <volist name="articles" id="vo_article">
+                <h4><a href="{:U('articleDetail',array('article_id'=>$vo_article['id']))}">{$vo_article.title}</a><span class="pull-right">By {$vo_article.username}</span></h4>
+                {$vo_article.content|strip_tags|mb_substr=0,300,'utf-8'}...
+                <br />
+                <span class="pull-right article-list-info">发布日期：{$vo_article.time|date='Y-m-d',###} 点击量：{$vo_article.click_time}</span>
+                <hr />
+            </volist>
+            <nav>
+                <ul class="pagination">
+                    <li <if condition="$page_num eq 1">class="disabled"</if>>
+                        <a href="{:U('articleList',array('pageNum' => $page_num - 1))}">
+                            <span>&laquo;</span>
+                        </a>
+                    </li>
+                    <for start="0" end="$page_count">
+                        <li><a href="{:U('articleList',array('pageNum'=>$i+1))}">{$i+1}</a></li>
+                    </for>
+                    <li <if condition="$page_num eq $page_count-1">class="disabled"</if>>
+                        <a href="{:U('articleList',array('pageNum' => $page_num + 1))}">
+                            <span>&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <br />
+    <br />
+
+    {// 网站底部}
+    <div class="container-fluid text-center copyright">
+        <ul class="center-block">
+            <li><a href="{:U('index')}">首页</a></li>
+            <li>|</li>
+            <li><a href="{:U('articleList')}">最新资讯</a></li>
+            <li>|</li>
+            <li><a href="{:U('articleDetail',array('article_id'=>22))}">推荐产品</a></li>
+            <li>|</li>
+            <li><a href="http://112.74.212.185/YDesigner" target="_blank">系统演示</a></li>
+        </ul>
+        <div class="service-text">
+            服务咨询：
+            <img src="__IMG__/index-qq.png" alt="qq" />
+            930372551
+            邮箱：930372551@qq.com 
+            页面设计：学妹小鱼儿
+        </div>
+        <div class="copyright-text">版权所有 &copy; All Right Reserved.</div>
+    </div>
+
+    <script src="__JS__/jquery.min.js"></script>
+    <script src="__JS__/bootstrap.min.js"></script>
+</body>
+</html>

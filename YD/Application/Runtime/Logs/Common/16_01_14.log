@@ -1,0 +1,48 @@
+[ 2016-01-14T11:28:25+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141128234405.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:28:28+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141128234405.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:28:28+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141128234405.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:28:59+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141128234405.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:29:00+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141128234405.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:29:45+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141129186816.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:35:14+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141134543956.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:Upload
+
+[ 2016-01-14T11:37:35+08:00 ] ::1 /YD/index.php/Upload/day_160114/201601141134543956.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+ERR: 无法加载模块:Upload
+

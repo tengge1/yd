@@ -1,0 +1,309 @@
+﻿
+/* 通用属性 */
+
+* {
+    font-family: 'Microsoft YaHei';
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    margin: 0px auto;
+}
+
+/* 导航条 */
+
+.index-nav {
+    background: transparent;
+    border: none;
+    height: 65px;
+    min-width: 1170px;
+}
+
+    .index-nav .container-fluid {
+        height: 100%;
+    }
+
+    .index-nav .navbar-header {
+        height: 100%;
+        margin-left: 105px;
+        margin-right: 85px;
+    }
+
+    .index-nav ul {
+        margin-top: 8px;
+        font-size: 13.5px;
+        color: white;
+    }
+
+    .index-nav .navbar-nav > li {
+        margin-right: 35px;
+    }
+
+        .index-nav .navbar-nav > li > a, .index-nav .navbar-nav > li > a:focus, .index-nav .navbar-nav > li > a:hover {
+            color: #fff;
+        }
+
+    .index-nav .navbar-nav > .active > a, .index-nav .navbar-nav > .active > a:focus, .index-nav .navbar-nav > .active > a:hover {
+        background-color: transparent;
+        color: #ffb339;
+    }
+
+.index-mask {
+    width: 100%;
+    height: 65px;
+    background-color: #3d3d3d;
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.6;
+    position: fixed;
+    z-index: 999;
+}
+
+/* 巨幕 */
+
+.index-banner {
+    background: url(../img/index-bg-main.png) no-repeat #fff;
+    background-size: cover;
+    background-position: left center;
+    height: 695px;
+}
+
+    .index-banner .index-banner-text {
+        max-width: 970px;
+    }
+
+    .index-banner h1 {
+        font-family: 'Microsoft YaHei';
+        font-weight: bold;
+        font-size: 38px;
+        color: #333;
+        margin-top: 170px;
+    }
+
+    .index-banner p {
+        font-family: 'Microsoft YaHei';
+        font-weight: normal;
+        font-size: 18px;
+        color: #fff;
+    }
+
+/* 最新资讯、产品简介、案例展示 */
+
+.index-block {
+}
+
+    .index-block h5 {
+        color: #3d98fc;
+        font-weight: bold;
+    }
+
+        .index-block h5 .sub {
+            color: #999;
+            font-weight: bold;
+        }
+
+        .index-block h5 a, .index-block h5 a:focus, .index-block h5 a:hover {
+            display: block;
+            background-color: #2b7fd9;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+    .index-block hr {
+        border: 1.5px solid #016bd9;
+    }
+
+    .index-block ul {
+        list-style-image: url(../img/index-list-style.png);
+        list-style-position: inside;
+        padding: 0px;
+    }
+
+        .index-block ul li {
+            margin-left: 0px;
+        }
+
+    .index-block .img-login {
+        height: 110px;
+    }
+
+    .index-block li a {
+        color: black;
+        text-decoration: none;
+        width: 20px;
+        text-overflow: ellipsis;
+    }
+
+/* 推荐产品 */
+
+.index-product {
+    margin-bottom: 30px;
+}
+
+    .index-product h5 {
+        background-color: #327ab7;
+        height: 25px;
+    }
+
+        .index-product h5 span {
+            display: block;
+            width: 130px;
+            height: 100%;
+            margin-left: 5px;
+            background-color: #fff;
+            color: #666;
+            font-size: 24px;
+            line-height: 25px;
+            text-align: center;
+        }
+
+    .index-product h4 {
+        color: #333;
+    }
+
+    .index-product p {
+        color: #bdbdbd;
+    }
+
+    .index-product div .arrow {
+        margin-top: 60px;
+    }
+
+    .index-product a, .index-product a:hover, .index-product a:focus {
+        text-decoration: none;
+    }
+
+/* 网站底部 */
+
+.copyright {
+    background-color: #f0f0f0;
+    box-shadow: 0px 0px 1px #555 inset;
+}
+
+    .copyright ul {
+        list-style: none;
+        height: 28px;
+        width: 400px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+        .copyright ul li {
+            float: left;
+            margin-right: 10px;
+            height: 100%;
+        }
+
+            .copyright ul li a, .copyright ul li a:focus, .copyright ul li a:hover {
+                text-decoration: none;
+                color: #000;
+                font-size: 12px;
+            }
+
+    .copyright .service-text {
+        margin-bottom: 15px;
+    }
+
+    .copyright .copyright-text {
+        margin-bottom: 40px;
+    }
+
+/* 文章列表页巨幕 */
+
+.article-list-banner {
+    padding: 0px;
+}
+
+/* 文章列表页面内容 */
+
+.article-list-block {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+    .article-list-block h2 {
+        background-color: #327ab7;
+        height: 25px;
+    }
+
+        .article-list-block h2 span {
+            display: block;
+            width: 130px;
+            height: 100%;
+            margin-left: 5px;
+            background-color: #fff;
+            color: #666;
+            font-size: 24px;
+            line-height: 25px;
+            text-align: center;
+        }
+
+    .article-list-block h4 {
+        color: red;
+        font-weight: bold;
+    }
+
+        .article-list-block h4 span {
+            font-size: 12px;
+            color: #4470a3;
+        }
+
+    .article-list-block .article-list-info {
+        color: #bdbdbd;
+    }
+
+    .article-list-block hr {
+        clear: both;
+        margin-top: 55px;
+    }
+
+    .article-list-block .pagination {
+    }
+
+        .article-list-block .pagination li {
+        }
+
+/* 文章详情页面 */
+.article-detail-block {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+    .article-detail-block .box {
+        background-color: #327ab7;
+        height: 25px;
+    }
+
+        .article-detail-block .box .sub {
+            height: 100%;
+            margin-left: 20px;
+            background-color: #fff;
+            color: #666;
+            font-size: 24px;
+            line-height: 25px;
+            text-align: center;
+        }
+
+            .article-detail-block .box .sub::before, .article-detail-block .box .sub::after {
+                content: "\00A0\00A0";
+            }
+
+        .article-detail-block .box .right {
+            font-size: 16px;
+            color: #fff;
+            margin-right: 10px;
+            margin-top: 2px;
+        }
+
+    .article-detail-block .title {
+        text-align: center;
+        color: red;
+    }
